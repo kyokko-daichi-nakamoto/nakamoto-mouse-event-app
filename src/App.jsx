@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>マウス操作で座標を表示</h1>
+        <h1>マウス操作で座標を表示する</h1>
         <MouseEventComponent />
       </header>
     </div>
